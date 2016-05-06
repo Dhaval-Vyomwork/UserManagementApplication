@@ -1,0 +1,10 @@
+D:\Dhaval\Projects\UserCrudApp\UserCrudApp.Data\bin\Debug\UserCrudApp.Data.dll.config
+D:\Dhaval\Projects\UserCrudApp\UserCrudApp.Data\bin\Debug\UserCrudApp.Data.dll
+D:\Dhaval\Projects\UserCrudApp\UserCrudApp.Data\bin\Debug\UserCrudApp.Data.pdb
+D:\Dhaval\Projects\UserCrudApp\UserCrudApp.Data\bin\Debug\EntityFramework.dll
+D:\Dhaval\Projects\UserCrudApp\UserCrudApp.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dhaval\Projects\UserCrudApp\UserCrudApp.Data\bin\Debug\EntityFramework.xml
+D:\Dhaval\Projects\UserCrudApp\UserCrudApp.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dhaval\Projects\UserCrudApp\UserCrudApp.Data\obj\Debug\UserCrudApp.Data.dll
+D:\Dhaval\Projects\UserCrudApp\UserCrudApp.Data\obj\Debug\UserCrudApp.Data.pdb
+D:\Dhaval\Projects\UserCrudApp\UserCrudApp.Data\obj\Debug\UserCrudApp.Data.csprojResolveAssemblyReference.cache
